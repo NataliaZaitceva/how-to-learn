@@ -10,9 +10,12 @@
 }
 
 .header {
+  display: flex;
+  position: relative;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
+  background-color: #f2f2f2;
   /* выше установили ограничения для секции */
 }
 
@@ -28,4 +31,57 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+}
+.logo{
+  width: 228px;
+  height: 32;
+}
+.logo_place_header{
+  background-image: (../images/logo_place_header);
+  position: absolute;
+  top: 30px;
+  left: 64px;
+  z-index: 1;
+}
+.text{
+  color: black;
+}
+.header__title{
+  width: 730px;
+  display: flex;
+  align-items: center;
+  padding-left: 64px;
+  z-index: 1;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bold;
+  font-weight: 700px;
+}
+.header__subtitle{
+  z-index: 1;
+  width: 388;
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.header__image{
+  position: absolute;
+  bottom: 0; right: 0;
+  width: 765px;
+  height: 608px;
+}
+.header__square-pic{
+  position: absolute;
+  top: 64px;
+  right: 0;
+  width: 568px;
+  height: 568px;
+  background-color:  #2f80ed;
+}
+.header__link{
+  color: #2f80ed;
+  text-decoration: none;
 }
