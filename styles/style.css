@@ -18,13 +18,6 @@
     background-color: #f2f2f2;
 }
 
-.table__cell_theme_dark {
-    width: 200px;
-    color: white;
-    margin-right: 0;
-    margin-top: 80px;
-}
-
 .logo {
     width: 228px;
     height: 32;
@@ -208,7 +201,7 @@
     min-height: 890px;
     background-color: #f2f2f2;
     padding: 0;
-    z-index: 0; 
+    z-index: 0;
     flex-direction: column;
     align-items: center;
 }
