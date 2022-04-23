@@ -57,7 +57,7 @@
 
 .header__main-illustration {
     position: absolute;
-    object-fit: fill;
+    object-fit: cover;
     bottom: 0;
     right: 0;
     width: 765px;
@@ -192,7 +192,7 @@
     line-height: 1.2;
     font-size: 18px;
     font-weight: normal;
-    margin-top: 20px;
+    margin: 20px 0 0 0;
 
 }
 
@@ -321,7 +321,7 @@
 
 }
 
-.footer__column_content_copyrigth {
+.footer__column_content_copyright {
     flex-direction: column;
     justify-content: space-between;
     flex-basis: 711px;
