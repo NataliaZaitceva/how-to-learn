@@ -1,17 +1,8 @@
-<<<<<<< HEAD
 .cards__item {
     width: 240px;
     margin-right: 100px;
 }
 
 .cards__item:nth-of-type(3n) {
-=======
-.cards__item{
-width: 240px;
-    margin-right: 100px;
-}
-
-.cards__item:nth-of-type(3n){
->>>>>>> 52b2d10c999863a31a4ff924ba142f5a03501568
     margin-right: 0;
 }

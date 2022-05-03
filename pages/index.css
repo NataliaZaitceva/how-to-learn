@@ -6,7 +6,6 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__link/header__link.css);
-
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place_header/logo_place_header.css);
@@ -39,18 +38,10 @@
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
-<<<<<<< HEAD
-=======
-
->>>>>>> 52b2d10c999863a31a4ff924ba142f5a03501568
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading);
 @import url(../blocks/table/__text/table__text.css);
-<<<<<<< HEAD
-=======
-
->>>>>>> 52b2d10c999863a31a4ff924ba142f5a03501568
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
@@ -61,10 +52,6 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
-<<<<<<< HEAD
-=======
-
->>>>>>> 52b2d10c999863a31a4ff924ba142f5a03501568
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__author/footer__author.css);
@@ -75,7 +62,3 @@
 @import url(../blocks/footer/__columns/__column_content_info/footer__column_content_info.css);
 @import url(../blocks/footer/__columns/__column_heading/footer__column_heading.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-<<<<<<< HEAD
-=======
-
->>>>>>> 52b2d10c999863a31a4ff924ba142f5a03501568
