@@ -1,0 +1,10 @@
+.khan__quote{
+    max-width: 790px;
+    width: 100%;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 0 0 35px 0;
+    padding: 0;
+    text-align: left;
+}
