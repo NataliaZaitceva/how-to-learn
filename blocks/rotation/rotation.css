@@ -1,4 +1,4 @@
-@keyframes rotation__square{
+@keyframes rotation-square{
       from {
     transform: rotate(0deg);
   }
@@ -8,7 +8,7 @@
   }
 }
 
-@keyframes rotation__triangle{
+@keyframes rotation-triangle{
       from {
     transform: rotate(0deg);
   }

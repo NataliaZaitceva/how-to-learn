@@ -7,5 +7,5 @@
     top: 0;
     z-index: -1;
     background-size: 877px 877px;
-    animation: rotation__triangle 20s linear infinite;
+    animation: rotation-triangle 20s linear infinite;
 }
