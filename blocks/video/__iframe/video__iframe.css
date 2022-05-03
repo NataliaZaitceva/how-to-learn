@@ -1,9 +1,11 @@
-.video__iframe{
+.video__iframe {
     margin: 0 20px 0 0;
-    max-width:  515px;
+    max-width: 515px;
     max-height: 316px;
+    border: 0;
+
 }
 
-.video__iframe:nth-of-type(2n){
+.video__iframe:nth-of-type(2n) {
     margin: 0;
 }
