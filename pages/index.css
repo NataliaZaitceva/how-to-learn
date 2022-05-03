@@ -39,24 +39,20 @@
 @import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/khan/__quote-author/khan__quote-author.css);
-
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading);
 @import url(../blocks/table/__text/table__text.css);
-
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
-@import url(../blocks/feynman/__img/feynman__img.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
-
+@import url(../blocks/feynman/__img/feynman__img.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
-
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__author/footer__author.css);
@@ -67,4 +63,3 @@
 @import url(../blocks/footer/__columns/__column_content_info/footer__column_content_info.css);
 @import url(../blocks/footer/__columns/__column_heading/footer__column_heading.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-
